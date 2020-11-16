@@ -1,0 +1,9 @@
+#this is aim_b file
+
+.PHONY:aim_b
+
+aim_b:
+
+	@echo "now we exe aim_b"
+
+	@echo "all in aim_b"
